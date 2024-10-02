@@ -8,7 +8,7 @@ With considering move to S/4HANA and Clean Core, SAP customers are looking at fo
 - **Code Optimization**: optimize for performance, efficiency, or resources
 - **Code Review for best practices**: ensuring new code meets organizational coding best practices, does not have any sensitive information, and follows SAP ABAP Cloud guidelines such as access only SAP Public APIs
 
-Without talking about any company or model, we wanted to focus on whether Generative AI models are positioned to help with any of the above. With the disclaimer that _Gen AI can hallucinate, and general training doesn’t imply that it would understand SAP ABAP code, we think of this as an experiment to talk about direction rather thanks absolute solution_. So, we don’t recommend relying solely on the results of Gen AI and always have a human in the loop.
+Without talking about any company or model, we wanted to focus on whether Generative AI models are positioned to help with any of the above. With the disclaimer that _Gen AI can hallucinate, and general training doesn’t imply that it would understand SAP ABAP code, we think of this as an experiment to talk about direction rather thanks absolute solution_. So, we don’t recommend relying solely on the results of Gen AI and prefer to always have a human in the loop.
 
 Gartner also has an insightful article that talks about [when not to use Generative AI](https://www.gartner.com/en/articles/when-not-to-use-generative-ai).
 
