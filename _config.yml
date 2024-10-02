@@ -1,3 +1,19 @@
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
+
+
+
+header_pages:
+  - _pages/homepage.md
+#  - _pages/about.md
+ 
+
+include:
+    - _pages
+    
+    
+ 
+
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-feed
+ - jekyll-seo-tag
