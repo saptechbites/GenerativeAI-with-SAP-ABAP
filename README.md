@@ -169,6 +169,7 @@ The outputs shown above are examples of what an output may look like, changing b
 - **Prompting techniques**: Improving prompts using techniques such as [multi-shot prompting](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/multishot-prompting) (providing example to the model) has shown to provide better output and reduce hallucinations. Experiment with different prompts to find out which one matches your use case the best.
 
 - **Model Evaluation**: Evaluating the output of different FMs allows you to not only select the best model for the use case, but also decide about tradeoffs among output, price, and latency. [Anthropic provides an evaluation tool](https://docs.anthropic.com/en/docs/test-and-evaluate/eval-tool) allowing you to test different prompts, which you can use for metrics such as accuracy, robustness, and safety.
+  
 - **Model Customization**: this is a technique that lets you customize general FMs with your own data for specific domain. Model customization is generally time and cost intensive and we recommend extensive testing using prompting and model evaluation before you think about this option
 
 <br>
