@@ -189,3 +189,8 @@ There is a lot more that goes into solving a real-world problem than this articl
 As you explore further, we recommend doing more tests using prompting techniques and evaluate different foundation models to get the expected output for your use case. 
 
 
+[Share this article on Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https://saptechbites.github.io/GenerativeAI-with-SAP-ABAP/)
+
+
+
+
