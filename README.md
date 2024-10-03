@@ -1,3 +1,11 @@
+## Generative AI use cases for SAP ABAP and Clean Core
+
+This article shares the insights we found when we applied Generative AI (Gen AI) techniques to SAP ABAP custom code. It explores how organizations can utilize AI technologies to address common challenges associated with custom code in SAP environments, particularly in the context of moving towards a Clean Core and S/4HANA migration.
+
+
+
+## Introduction
+
 Organizations that use SAP are familiar with flexibility as well as challenges associated with custom code. According to SAP’s review, [65% of custom code has not been used](https://news.sap.com/2024/06/sap-sapphire-sap-customers-drive-business-transformation/) in past 12 months by several organizations. So, with SAP’s direction for organizations to move to a Clean Core, this is the right time to evaluate your custom code and understand the impact and opportunity going forward.
 
 With considering move to S/4HANA and Clean Core, SAP customers are looking at following areas as priorities:
@@ -176,6 +184,8 @@ The outputs shown above are examples of what an output may look like, changing b
 
 ## What’s next
 
-There is a lot more that goes into solving a real-world problem than this article talks about, and we wanted to provide our point of view about where and how to get started and how to think about using Gen AI for SAP Code.
+There is a lot more that goes into solving a real-world problem than this article talks about, and we wanted to provide our point of view about where and how to get started and how to think about using Gen AI for SAP ABAP Code.
 
-Feel free to add your feedback and experience in the comments!
+As you explore further, we recommend doing more tests using prompting techniques and evaluate different foundation models to get the expected output for your use case. 
+
+
