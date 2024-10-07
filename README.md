@@ -187,3 +187,5 @@ The outputs shown above are examples of what an output may look like, changing b
 There is a lot more that goes into solving a real-world problem than this article talks about, and we wanted to provide our point of view about where and how to get started and how to think about using Gen AI for SAP ABAP Code.
 
 As you explore further, we recommend doing more tests using prompting techniques and evaluate different foundation models to get the expected output for your use case. 
+
+Also, [join the discussion on GitHub with your questions and comments](https://github.com/saptechbites/GenerativeAI-with-SAP-ABAP/discussions).
